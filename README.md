@@ -8,7 +8,7 @@ A traffic light (semaphore) simulation built with Arduino UNO and three LEDs, cy
 
 ## Demo
 
-![Circuit diagram](circuit.png)
+![Circuit diagram](preview.png)
 
 ---
 
