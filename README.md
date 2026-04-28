@@ -1,3 +1,5 @@
+# [versão em Português](README_pt.md)
+
 # Arduino Traffic Light Simulator
 
 A traffic light (semaphore) simulation built with Arduino UNO and three LEDs, cycling through a standard Red → Yellow → Green → Yellow sequence.
