@@ -1,4 +1,4 @@
-# [versão em Português](README_pt.md)
+# [versão em Português](README-pt-br.md)
 
 # Arduino Traffic Light Simulator
 
